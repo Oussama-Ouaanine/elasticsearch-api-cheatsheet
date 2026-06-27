@@ -8,7 +8,7 @@
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-8.x-green?logo=elasticsearch)](https://www.elastic.co/)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](https://github.com)
 
-&lt;/div&gt;
+
 
 ---
 
