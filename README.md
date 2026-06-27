@@ -1,4 +1,4 @@
-&lt;div align="center"&gt;
+
 
 # 🔍 Elasticsearch API Cheat Sheet
 
